@@ -1,0 +1,6 @@
+token=NDkzMjY5OTY4OTY5MDA3MTM0.DrNcgQ.fbjMw3YeLxw27sl1SyByZ1OqlSY
+owner=391306171278950401
+prefix=S
+Shelp
+stayinchannel=true
+songinstatus=true
