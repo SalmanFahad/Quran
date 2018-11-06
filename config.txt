@@ -1,6 +1,4 @@
-token=NDkxMjc4NzU5ODIzOTMzNDUw.DrShiA.7bWmkdkOhR1JvbV4CltMJcuyF04
+token=NDkxMjc4NzU5ODIzOTMzNDUw.DsM83Q.2-wadJxJN6Ah7dXa7i0OubfYOx4
 owner=391306171278950401
 prefix=q
 game= The Huly Quran.
-stayinchannel=true
-songinstatus=true
